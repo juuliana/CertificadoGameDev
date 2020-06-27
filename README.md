@@ -1,7 +1,7 @@
 
 <h1 align="center">
     <h1 align="center">Certificado Imersão GameDev da Alura</h1>
-    <img alt="Logo" src=""/>
+    <img alt="Logo" src="https://github.com/juuliana/CertificadoGameDev/blob/master/certificado.png"/>
     <br>
 </h1>
 
